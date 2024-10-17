@@ -19,3 +19,6 @@ Este projeto tem como objetivo criar uma série de histórias em quadrinhos curt
 ## Branch Principal
 A branch principal será usada para o desenvolvimento contínuo das histórias e da documentação. A equipe deverá trabalhar nela para implementar o conteúdo.
 
+## Links Importantes
+- - [Product Backlog](https://github.com/GabrielLopesz9135/historia-em-quadrinhos/issues)
+- [Kanban Board](https://github.com/users/GabrielLopesz9135/projects/2)
